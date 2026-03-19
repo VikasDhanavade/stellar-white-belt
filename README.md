@@ -1,5 +1,5 @@
-<<<<<<< HEAD (Accept current change
-)
+<<<<<<< HEAD (current change)
+
 # 🌟 Stellar Pay - Simple Payment dApp
 
 A decentralized payment application built on the Stellar testnet that allows users to connect their Freighter wallet and send XLM transactions.
