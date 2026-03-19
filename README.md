@@ -1,4 +1,4 @@
-<<<<<<< HEAD (current change)
+
 
 # 🌟 Stellar Pay - Simple Payment dApp
 
@@ -48,7 +48,6 @@ npm start
 3. Switch to **Testnet** in Freighter settings
 4. Fund your wallet at [https://friendbot.stellar.org](https://friendbot.stellar.org/)
 
-## 📸 Screenshots
 
 ### Wallet Connected + Balance Displayed
 ![Wallet Connected](connected.png)
